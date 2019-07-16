@@ -1,0 +1,14 @@
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\bin\Debug\netcoreapp2.2\DataAccessPostgreSqlProvider.deps.json
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\bin\Debug\netcoreapp2.2\DataAccessPostgreSqlProvider.runtimeconfig.json
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\bin\Debug\netcoreapp2.2\DataAccessPostgreSqlProvider.runtimeconfig.dev.json
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\bin\Debug\netcoreapp2.2\DataAccessPostgreSqlProvider.dll
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\bin\Debug\netcoreapp2.2\DataAccessPostgreSqlProvider.pdb
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\bin\Debug\netcoreapp2.2\DomainModel.dll
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\bin\Debug\netcoreapp2.2\DomainModel.pdb
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\obj\Debug\netcoreapp2.2\DataAccessPostgreSqlProvider.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\obj\Debug\netcoreapp2.2\DataAccessPostgreSqlProvider.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\obj\Debug\netcoreapp2.2\DataAccessPostgreSqlProvider.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\obj\Debug\netcoreapp2.2\DataAccessPostgreSqlProvider.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\obj\Debug\netcoreapp2.2\DataAccessPostgreSqlProvider.csproj.CopyComplete
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\obj\Debug\netcoreapp2.2\DataAccessPostgreSqlProvider.dll
+C:\Users\Bruno\source\repos\SoluctionN1Core\DataAccessPostgreSqlProvider\obj\Debug\netcoreapp2.2\DataAccessPostgreSqlProvider.pdb

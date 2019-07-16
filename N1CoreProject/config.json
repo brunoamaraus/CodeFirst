@@ -1,0 +1,8 @@
+{
+  "ConnectionStrings": {
+    "DataAccessSqliteProvider": "Data Source=C:\\git\\damienbod\\AspNetCoreMultipleProject\\src\\DataAccessSqliteProvider\\dataeventrecords.sqlite",
+    "DataAccessMsSqlServerProvider": "Data Source=.\\SQLEXPRESS;Initial Catalog=DbTestMultipleProject;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",
+    "DataAccessPostgreSqlProvider": "User ID=postgres;Password=dress.1986;Host=localhost;Port=5432;Database=TESTEBRUNO;Pooling=true;",
+    "DataAccessMySqlProvider": "server=localhost;userid=damienbod;password=1234;database=nlog;"
+  }
+}
