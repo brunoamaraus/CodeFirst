@@ -3,7 +3,6 @@ C:\Users\Bruno\source\repos\SoluctionN1Core\DomainModel\bin\Debug\netcoreapp2.2\
 C:\Users\Bruno\source\repos\SoluctionN1Core\DomainModel\bin\Debug\netcoreapp2.2\DomainModel.runtimeconfig.dev.json
 C:\Users\Bruno\source\repos\SoluctionN1Core\DomainModel\bin\Debug\netcoreapp2.2\DomainModel.dll
 C:\Users\Bruno\source\repos\SoluctionN1Core\DomainModel\bin\Debug\netcoreapp2.2\DomainModel.pdb
-C:\Users\Bruno\source\repos\SoluctionN1Core\DomainModel\obj\Debug\netcoreapp2.2\DomainModel.csprojAssemblyReference.cache
 C:\Users\Bruno\source\repos\SoluctionN1Core\DomainModel\obj\Debug\netcoreapp2.2\DomainModel.csproj.CoreCompileInputs.cache
 C:\Users\Bruno\source\repos\SoluctionN1Core\DomainModel\obj\Debug\netcoreapp2.2\DomainModel.AssemblyInfoInputs.cache
 C:\Users\Bruno\source\repos\SoluctionN1Core\DomainModel\obj\Debug\netcoreapp2.2\DomainModel.AssemblyInfo.cs

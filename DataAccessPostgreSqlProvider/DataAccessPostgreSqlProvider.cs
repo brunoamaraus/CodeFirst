@@ -25,7 +25,8 @@ namespace DataAccessPostgreSqlProvider
         public async Task<List<Pessoa>> GetListaPessoaAsync()
         {
             //var ola = await _context.Pessoas.ToListAsync();
-            var ola = await _context.Database.GetDbConnection().QueryAsync<Pessoa>(@"select * from public.""PESSOA""");
+            //var ola = await _context.Database.GetDbConnection().QueryAsync<Pessoa>(@"select * from public.""PESSOA""");
+            var ola = await _context.Database.GetDbConnection().QueryAsync<Pessoa>("select * from pessoa");
             return ola.ToList();
             //List<Pessoa> ola = new List<Pessoa>();
             //using (var conn = new NpgsqlConnection(@"User ID=postgres;Password=dress.1986;Host=localhost;Port=5432;Database=TESTEBRUNO;Pooling=true;"))
